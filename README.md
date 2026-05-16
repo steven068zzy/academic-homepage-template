@@ -6,13 +6,35 @@
 </p>
 
 <p align="center">
-  <a href="https://steven068zzy.github.io/" target="_blank"><strong>Live Demo →</strong></a>
+  <a href="https://steven068zzy.github.io/stevenZYzhao.github.io/" target="_blank"><strong>🌐 Live Demo →</strong></a>
   &nbsp;·&nbsp;
   <a href="#quick-start">Quick Start</a>
   &nbsp;·&nbsp;
   <a href="#configuration">Configuration</a>
   &nbsp;·&nbsp;
   <a href="#adding-content">Adding Content</a>
+</p>
+
+<p align="center">
+  <sub>Template created by <a href="https://steven068zzy.github.io/stevenZYzhao.github.io/">Ziyuan Zhao (Steven)</a> — Ph.D. student at Texas A&M University</sub>
+</p>
+
+---
+
+## Preview
+
+### Desktop
+
+![Desktop view](docs/screenshot-desktop.png)
+
+### Publications section
+
+![Publications section](docs/screenshot-publications.png)
+
+### Mobile
+
+<p align="center">
+  <img src="docs/screenshot-mobile.png" alt="Mobile view" width="320">
 </p>
 
 ---
@@ -208,7 +230,7 @@ To **reorder sections**, cut and paste the blocks.
 
 - Built on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) by [Yi Ren](https://github.com/RayeRen)
 - Based on [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme by [Michael Rose](https://mademistakes.com/)
-- Mobile optimization, design layer, and template by [Ziyuan Zhao](https://steven068zzy.github.io/)
+- Mobile optimization, design layer, and template by [Ziyuan Zhao (Steven)](https://steven068zzy.github.io/stevenZYzhao.github.io/)
 
 ---
 
